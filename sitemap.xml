@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.die-bo.de/page/</loc>
+    <lastmod>2020-08-13T12:55:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.die-bo.de/</loc>
+    <lastmod>2020-08-13T12:48:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.die-bo.de/posts/first/</loc>
+    <lastmod>2020-08-13T12:48:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.die-bo.de/posts/</loc>
+    <lastmod>2020-08-13T12:48:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.die-bo.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.die-bo.de/tags/</loc>
+  </url>
+  
+</urlset>

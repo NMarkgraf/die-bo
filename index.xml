@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diese Domain steht zum Verkauf! on Die Domain wikiheaven.de steht zum Verkauf!</title>
+    <link>https://www.die-bo.de/</link>
+    <description>Recent content in Diese Domain steht zum Verkauf! on Die Domain wikiheaven.de steht zum Verkauf!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 13 Aug 2020 12:48:15 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.die-bo.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Page</title>
+      <link>https://www.die-bo.de/page/</link>
+      <pubDate>Thu, 13 Aug 2020 12:55:49 +0200</pubDate>
+      
+      <guid>https://www.die-bo.de/page/</guid>
+      <description>xxx</description>
+    </item>
+    
+    <item>
+      <title>Diese Seite ist zu verkaufen!</title>
+      <link>https://www.die-bo.de/posts/first/</link>
+      <pubDate>Thu, 13 Aug 2020 12:48:15 +0200</pubDate>
+      
+      <guid>https://www.die-bo.de/posts/first/</guid>
+      <description>Diese Seite ist zu verkaufen! Ernstgemeinte Angebote bitt an: nmarkgraf(at)hotmail(punkt)com</description>
+    </item>
+    
+  </channel>
+</rss>
